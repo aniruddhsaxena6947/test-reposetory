@@ -1,2 +1,3 @@
 # test-reposetory
-yoo this is my first reposatory 
+yoo this is my first repo (practice)
+
